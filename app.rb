@@ -32,7 +32,6 @@ get '/user/:id' do
       premium_since: data['premium_since'],
       premium_guild_since: data['premium_guild_since'],
       profile_themes_experiment_bucket: data['profile_themes_experiment_bucket'],
-      mutual_guilds: data['mutual_guilds'],
       user_profile: data['user_profile'],
       guild_badges: data['guild_badges'],
       legacy_username: data['legacy_username']
