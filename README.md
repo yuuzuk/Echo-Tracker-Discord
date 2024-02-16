@@ -77,23 +77,6 @@ List of information returned by the API:
       "premium_since": "2022-11-25T04:42:53.118992+00:00",
       "premium_guild_since": "2023-02-15T08:23:27.393000+00:00",
       "profile_themes_experiment_bucket": 4,
-      "mutual_guilds": [
-          {
-          "id": "1160619243507810304",
-          "nick": null
-          },
-          {
-          "id": "584490943034425391",
-          "nick": null
-          },
-          {
-          "id": "992619779091341424",
-          "nick": null
-          },
-          {
-          "id": "898377990906454016",
-          "nick": null
-          }
       ],
       "user_profile": {
           "bio": "> **Vendedora** com mais de **300** avaliações!\n\n<:Link:1172722655523258502> **Perfil** da **GGMax**: https://ggmax.com.br/perfil/WyxStore\nMelhores preços!",
